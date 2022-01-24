@@ -1,5 +1,3 @@
----
----
 # Prototypes
 
 * [Prototype 1][p1]
